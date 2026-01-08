@@ -1,19 +1,19 @@
-## Hi there 👋
+## Hi there 👋   ##大家好👋
 
-<!--
-**huo241/huo241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--   & lt; !--
+**huo241/huo241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**huo241/huo241**是一个✨_special_✨存储库，因为它的“README”。（这个文件）出现在你的GitHub配置文件上。
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:这里有一些建议让你开始：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...-🔭我目前正在做…
+- 🌱 I’m currently learning ...-🌱我目前正在学习…
+- 👯 I’m looking to collaborate on ...-👯我希望合作…
+- 🤔 I’m looking for help with ...-🤔我正在寻求帮助…
+- 💬 Ask me about ...-💬问我关于…
+- 📫 How to reach me: ...-📫如何联系我：…
+- 😄 Pronouns: ...   -😄代词:…
+- ⚡ Fun fact: ...-⚡有趣的事实：…
+-->   ——比;
 
 👋 Hi! I'm Lwo.
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📍 Based in Shanghai, China
 
-🌐 Languages: Native in 中文, conversational in English and Cantonese
+🌐 Languages: Native in Chinese, conversational in English and Cantonese
 
 🎓 Major at JSU
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 💬 Loves discussing programming & open-source）
 
 
-### Sites:
-| Site               | URL                   |
+### Sites:   # # #网站:
+| Site               | URL                   |   |站点| URL |
 | ------------------ | --------------------- |
-| 我的主页           | www.winfore.com.cn  |
+| 我的主页           | https://github.com/huo241  |
