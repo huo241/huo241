@@ -24,6 +24,7 @@ Here are some ideas to get you started:这里有一些建议让你开始：
   - Daily: Playing games & watching movies
   - Community: Discussing programming & open-source topics
 ### Sites:   # # #网站:
-| Site               | URL                   |   |站点| URL |
+| Site               | URL                   |  
 | ------------------ | --------------------- |
 | 我的主页           | https://github.com/huo241  |
+
