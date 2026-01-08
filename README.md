@@ -15,23 +15,15 @@ Here are some ideas to get you started:这里有一些建议让你开始：
 - ⚡ Fun fact: ...-⚡有趣的事实：…
 -->   ——比;
 
-👋 Hi! I'm Lwo.
-
-🎯 He/Him - 19岁
-
-📍 Based in Shanghai, China
-
-🌐 Languages: Native in Chinese, conversational in English and Cantonese
-
-🎓 Major at JSU
-
-💻 Enjoys coding & exploring tech projects）
-
-🎮 Hobbies: playing games & watching movies）
-
-💬 Loves discussing programming & open-source）
-
-
+### 🧑‍💻 About Me
+- **Identity**: He/Him · 19 years old
+- **Location**: Shanghai, China
+- **Languages**: Native (Chinese) · Conversational (English & Cantonese)
+- **Education**: Currently studying at JSU
+- **Interests**:
+  - Tech: Coding & exploring tech projects
+  - Daily: Playing games & watching movies
+  - Community: Discussing programming & open-source topics
 ### Sites:   # # #网站:
 | Site               | URL                   |   |站点| URL |
 | ------------------ | --------------------- |
