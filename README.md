@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 ```text
@@ -7,9 +6,10 @@
   | | |/| '_ ` _ \  | |  \ \ /\ / // _ \   \ V // _ \ | | | || '_ \  / _` |
   | |   | | | | | | | |___\ V  V /| (_) |   | || (_) || |_| || | | || (_| |
  |___|  |_| |_| |_| |_____|\_/\_/  \___/    |_| \___/  \__,_||_| |_| \__, |
-                                                                     |___/ 
+                                                                     |___/
 </div>
 👋 Hi! I'm Lwo.
+
 🧑‍💻 A long-form blogger who loves building & writing
 
 📍 Based in Shanghai, China
