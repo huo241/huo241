@@ -7,7 +7,6 @@
                                                                      |___/ 
 
 </div>
-
 👋 Hi! I'm Lwo.
 
 🧑‍💻 A long-form blogger who loves building & writing
