@@ -1,7 +1,3 @@
-
-<!--   & lt; !--& lt; !——& lt；！--
-**huo241/huo241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**huo241/huo241**是一个✨_special_✨存储库，因为它的“README”。（这个文件）出现在你的GitHub配置文件上。**huo241/huo241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**huo241/huo241**是一个✨_special_✨存储库，因为它的“README”。（这个文件）出现在你的GitHub配置文件上。
-
 Here are some ideas to get you started:这里有一些建议让你开始：
 
 - 🔭 I’m currently working on ...-🔭我目前正在做…- 🔭 I’m currently working on ...-🔭我目前正在做…
@@ -12,6 +8,7 @@ Here are some ideas to get you started:这里有一些建议让你开始：
 - 📫 How to reach me: ...-📫如何联系我：…- 📫 How to reach me: ...-📫如何联系我：…
 - 😄 Pronouns: ...   -😄代词:…- 😄 Pronouns: ...   -😄代词:…
 - ⚡ Fun fact: ...-⚡有趣的事实：…- ⚡ Fun fact: ...-⚡有趣的事实：…
+
 ```text
   ___  _             _                    __   __                          
  |_ _|( )_ __ ___   | |  __      __ ___   \ \ / /___   _   _  _ __    __ _ 
