@@ -1,3 +1,6 @@
+```md
+<div align="center">
+
 ```text
   ___  _             _                    __   __                          
  |_ _|( )_ __ ___   | |  __      __ ___   \ \ / /___   _   _  _ __    __ _ 
@@ -5,10 +8,8 @@
   | |   | | | | | | | |___\ V  V /| (_) |   | || (_) || |_| || | | || (_| |
  |___|  |_| |_| |_| |_____|\_/\_/  \___/    |_| \___/  \__,_||_| |_| \__, |
                                                                      |___/ 
-
 </div>
 👋 Hi! I'm Lwo.
-
 🧑‍💻 A long-form blogger who loves building & writing
 
 📍 Based in Shanghai, China
@@ -22,8 +23,3 @@
 🎮 Daily: games & movies
 
 🤝 Community: open-source & programming discussions
-### Sites
-| Site               | URL                   |  
-| ------------------ | --------------------- |
-| My homepage           | https://github.com/huo241  |
-
