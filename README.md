@@ -10,7 +10,7 @@
 *Long-form writer · Builder*
 
 <p>
-  <a href="https://github.com/huo241/Lwo-blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-2B3440?style=flat-square&logo=rss&logoColor=white" /></a>
+  <a href="https://snappy.blog" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-2B3440?style=flat-square&logo=rss&logoColor=white" /></a>
 </p>
 
 He / Him · Based in Shanghai, China
